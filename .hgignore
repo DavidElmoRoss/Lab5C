@@ -1,0 +1,9 @@
+^BUILD$
+^.cache$
+^.clangd$
+^compile_commands.json$
+^.mbed$
+^mbed-os$
+^Grove_LCD_RGB_Backlight$
+^DigitDisplay$
+^DigitDisplay/DigitDisplay$
